@@ -1,6 +1,9 @@
 # bot
 Registered number:18pa1a1201,I individually
 done this bot sir not in teams.
+
+
+
 OBJECTIVE:-
 A simple bot which helps to understand how to 
 Order for paint and online painting for people
