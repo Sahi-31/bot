@@ -15,7 +15,7 @@ Paint delivery and other for online painters
 3.The two options will describe the process
 
 
-https://youtu.be/KQwp3wWoE0M:-This is the
-YouTube link for my bot
-https://youtu.be/C6X71gjB9pA:-From here I 
-learned how to create it.
+https://youtu.be/KQwp3wWoE0M:-
+This is the YouTube link for my bot
+https://youtu.be/C6X71gjB9pA:-
+From here I learned how to create it.
